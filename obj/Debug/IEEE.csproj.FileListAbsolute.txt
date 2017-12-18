@@ -1,0 +1,15 @@
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\bin\Debug\IEEE.exe.config
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\bin\Debug\IEEE.exe
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\bin\Debug\IEEE.pdb
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.csprojResolveAssemblyReference.cache
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Form1.resources
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Properties.Resources.resources
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.csproj.GenerateResource.Cache
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.exe
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.pdb
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Form2.resources
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Form3.resources
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\bin\Debug\Restaurant_Database.mdf
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\bin\Debug\Restaurant_Database_log.ldf
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Form4.resources
+C:\Users\Göktuğ\Desktop\Project\IEEE\IEEE\obj\Debug\IEEE.Form5.resources
